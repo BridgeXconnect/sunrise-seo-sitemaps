@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.sunrise-successful.com/sitemap.xml</loc>
+    <lastmod>2025-06-17</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sunrise-successful.com/sitemap-properties.xml</loc>
+    <lastmod>2025-06-17</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sunrise-successful.com/sitemap-locations.xml</loc>
+    <lastmod>2025-06-17</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.sunrise-successful.com/sitemap-property-types.xml</loc>
+    <lastmod>2025-06-17</lastmod>
+  </sitemap>
+</sitemapindex>

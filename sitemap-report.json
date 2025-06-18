@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-06-17T09:27:24.579Z",
+  "totalUrls": 122,
+  "propertyUrls": 110,
+  "locationUrls": 7,
+  "propertyTypeUrls": 4,
+  "staticUrls": 1,
+  "propertyBreakdown": {
+    "Unknown": 110
+  },
+  "locationBreakdown": {
+    "Naklua": 1,
+    "Central Pattaya": 1,
+    "Wong Amat": 1,
+    "Bang Saray": 1,
+    "Huay Yai": 1,
+    "Jomtien": 1,
+    "Pattaya": 1
+  },
+  "propertyTypeBreakdown": {
+    "Penthouse": 1,
+    "Villa": 1,
+    "Condo": 1,
+    "House": 1
+  }
+}
